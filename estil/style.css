@@ -4,6 +4,7 @@ section {width: 900px; background-color: rgb(128, 128, 128); margin: auto; paddi
 div {text-align: center;}
 h1 {color: rgb(74, 78, 67); text-align: center; font-size: 1.4em;}
 p {color: antiquewhite; text-align: justify;}
+p#a {text-align: center;}
 img.ideal {width: 650px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);}
 u {color: #044999e7; text-decoration-style: double;}
 i.e {font-size: 0.9em;}
